@@ -66,7 +66,7 @@ The platform consists of several microservices:
 <img width="1329" height="587" alt="image" src="https://github.com/user-attachments/assets/e16f9a11-d631-4c9b-a753-ccc028fd216e" />
 <img width="1382" height="621" alt="image" src="https://github.com/user-attachments/assets/aabbaa72-f1a6-45da-aed0-88f1de0d8d67" />
 <img width="1620" height="713" alt="Screenshot 2025-12-11 at 12 56 23 AM" src="https://github.com/user-attachments/assets/885f0cda-84d5-4655-bfc4-cb5f96ec0d3e" />
-
+<img width="1336" height="708" alt="Screenshot 2025-12-11 at 12 57 54 AM" src="https://github.com/user-attachments/assets/ef4d7ac1-8b87-4a08-823a-5e0b1ce3e835" />
 
 ---
 
