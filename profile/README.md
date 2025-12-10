@@ -1,6 +1,6 @@
 # Chatbot Builder Platform
 
-This project is based on [this](https://repository.najah.edu/items/00312058-34df-4913-a78e-761be33466ad) undergraduate thesis at An-Najah National University
+The project is based on [this](https://repository.najah.edu/items/00312058-34df-4913-a78e-761be33466ad) undergraduate thesis at An-Najah National University
 
 ## Overview
 
