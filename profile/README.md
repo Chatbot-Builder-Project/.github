@@ -69,14 +69,6 @@ The platform consists of several microservices:
 <img width="1336" height="708" alt="Screenshot 2025-12-11 at 12 57 54 AM" src="https://github.com/user-attachments/assets/ef4d7ac1-8b87-4a08-823a-5e0b1ce3e835" />
 
 ---
+## Demo Video
 
-## Key Technologies
-
-- **Backend**:
-    - **ASP.NET Core** for the API Gateway and Engine Service.
-    - **Python**: Executor Service for LangChain integration.
-    - **gRPC** for inter-service communication.
-    - Infrastructure as Code with **Terraform** and **Kubernetes**.
-- **Frontend**:
-    - **React Native**: Drag-and-drop user interface.
-    - Website and mobile app with **Expo**.
+[This](https://drive.google.com/file/d/1j7mCN1Lz8Pf1seuUbRICazsv25M9Yu03/view?usp=sharing) link
