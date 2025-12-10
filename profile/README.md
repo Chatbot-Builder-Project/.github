@@ -1,5 +1,7 @@
 # Chatbot Builder Platform
 
+This project is based on [this](https://repository.najah.edu/items/00312058-34df-4913-a78e-761be33466ad) undergraduate thesis at An-Najah National University
+
 ## Overview
 
 The **Chatbot Builder Platform** is a drag-and-drop application that empowers users to create advanced,
