@@ -1,6 +1,8 @@
 # Chatbot Builder Platform
 
-The project is based on [this](https://repository.najah.edu/items/00312058-34df-4913-a78e-761be33466ad) undergraduate thesis at An-Najah National University
+Research reference: [link](https://repository.najah.edu/items/00312058-34df-4913-a78e-761be33466ad) - undergraduate thesis at An-Najah National University
+
+Research paper: [link](https://github.com/Chatbot-Builder-Project/chatbot-builder-latex/blob/main/main.pdf)
 
 ## Overview
 
