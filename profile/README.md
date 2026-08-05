@@ -11,6 +11,8 @@ interactive chatbots by combining structured logic workflows (like facebook bots
 capabilities (like chatgpt). This platform bridges the gap between traditional static chatbot builders and cutting-edge
 generative AI tools, enabling users to design chatbots that are both deeply structured and highly interactive.
 
+https://github.com/user-attachments/assets/33327d93-b526-495d-b32f-8c30d35fb64e
+
 Checkout this diagram for an early look at the drag-and-drop builder design:
 [Miro Link](https://miro.com/app/board/uXjVLIMWgVc=/?share_link_id=293187166089)
 
